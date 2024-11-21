@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837528517339",
+    "project_id": "foodwala-8794e",
+    "storage_bucket": "foodwala-8794e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837528517339:android:363689477b1e1a7468aafe",
+        "android_client_info": {
+          "package_name": "com.food.food"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsFvPfD3IAS7JEQzwQCW6FnB9JARxb6QU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
